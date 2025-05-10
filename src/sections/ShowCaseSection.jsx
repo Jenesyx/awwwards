@@ -51,12 +51,10 @@ const AppShowcase = () => {
                 </div>
                 <div className="text-content">
                 <h2>
-                    On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                    called Ryde
+                This portfolio exemplifies a modern and professional UI/UX design that balances minimalist sensibilities with functionality
                 </h2>
                 <p className="text-white-50 md:text-xl">
-                    An app built with React Native, Expo, & TailwindCSS for a fast,
-                    user-friendly experience.
+                Enter your text here...The design effectively communicates expertise in UI/UX
                 </p>
                 </div>
             </div>
@@ -69,14 +67,14 @@ const AppShowcase = () => {
                     alt="Library Management Platform"
                     />
                 </div>
-                <h2>The Library Management Platform</h2>
+                <h2>The Valorant Boosting Platform</h2>
                 </div>
 
                 <div className="project" ref={ycDirectoryRef}>
                 <div className="image-wrapper bg-[#FFE7EB]">
                     <img src="/images/project3.png" alt="YC Directory App" />
                 </div>
-                <h2>YC Directory - A Startup Showcase App</h2>
+                <h2>A Startup Showcase App for gamers</h2>
                 </div>
             </div>
             </div>
